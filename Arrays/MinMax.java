@@ -1,4 +1,4 @@
-/*
+
 class Pair<K, V> {
     private final K key;
     private final V value;
@@ -16,7 +16,7 @@ class Pair<K, V> {
         return value;
     }
 }
-
+/* 
 Java users need to return result in Pair class
 For Example -> return new Pair(minimum,maximum)
 */
